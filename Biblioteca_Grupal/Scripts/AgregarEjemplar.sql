@@ -27,4 +27,4 @@ INSERT INTO [dbo].[EJEMPLAR] values('1','Matematica I','Matteo Pagani','2012','P
 							('1','Todo sobr eprogramacion','Peter Shaw','2016','Pegasus'),
 							('1','C++','Robert Pickering','2003','Galaxia'),
 							('1','Progrmacion Python','Peter Shaw','2009','Planeta'),
-							('1','Programacion java','Robert Pickering','2017','Book12')
+							('1','Programacion java','Robert Pickering','2017','Book1')
