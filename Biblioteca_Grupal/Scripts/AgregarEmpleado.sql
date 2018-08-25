@@ -28,4 +28,4 @@ INSERT INTO Empleado values('TICONA CALCINA JHULYUS ANTHONY','Tacna','920451214'
 							('CHURA MAMANI LUIS FERNANDO','Tacna','920451230','luis@gmail.com'),
 							('MAMANI OLIVERA ANEL DIANA','Tacna','920451231','anel@gmail.com'),
 							('DIAZ PILCO GABI INDIRA','Tacna','920451232','gabi@gmail.com'),
-							('TICONA RAMIREZ ALEX','Tacna','920451233','alex@gmail.com')
+							('TICONA RAMIREZ ALEX','Tacna','920451223','alex@gmail.com')
